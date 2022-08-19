@@ -1,0 +1,144 @@
+#header{
+	position: fixed;
+	/*display: flex;*/
+	background-color: white;
+	width: 100%;
+
+	margin-left: -8px;
+	margin-top: -20px;
+	padding: 1em;
+}
+
+#header-img{
+	max-width: 20em
+}
+.nav-link{
+	/*display: flex;*/
+	text-decoration: none;
+	color: black;
+	padding-right: 3em;
+	font-size: 20px;
+}
+#nav-bar{
+	float: right;	
+	display: block;
+	margin-right: 5em;
+}
+#form{
+	text-align: center;
+}
+#email{
+	padding: 5px;
+	min-width: 20%;
+}
+#submit{
+	background-color: yellow;
+	border: none;
+	padding: 10px;
+	margin-top: 1em;
+	font-weight: bolder;
+	color: black;
+}
+
+h2{
+	text-align: center;
+	padding-top: 100px;
+}
+h5{
+	background: gray;
+	height: 50px;
+	margin-top: 0px;
+
+	font-size: 20px;
+	padding-top: 1em;
+}
+
+#features{
+	margin-left: 20%;
+	margin-right: 5em;
+}
+#how_it_works{
+	text-align: center;
+	margin-top: 5em;
+	background: gray;
+	margin-bottom: 5em;
+	min-height: 25em;
+}
+
+
+
+#price-select{
+	background-color: yellow;
+	border: none;
+	padding: 10px;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	font-weight: bolder;
+	color: black;
+}
+
+
+#pricing{
+	/*background: red;*/
+	/*float: right;*/
+	display:inline-block
+	/*width: 1000%;*/
+	margin-left: 2%;
+	
+}
+#first_box, #second_box, #third_box{
+	border-radius: 1px solid;
+	border-color: black;
+	/*background-color: red;*/
+	float: left;
+	padding-left: 1em;
+	/*padding: 5em;*/
+}
+/*#second_box{
+	border-radius: 1px solid;
+	border-color: black;
+	background-color: red;
+	float: left;
+}*/
+/*#third_box{
+	border-radius: 1px solid;
+	border-color: black;
+	background-color: red;
+	float: left;
+}*/
+
+#price_nav{
+	/*background-color: gray;*/
+	border: 1px solid;
+	border-color: black;
+	min-width: 400px;
+	min-height: 10rem;
+
+	text-align: center;
+	margin-bottom: 20rem;
+}
+
+
+#footer{
+	/*margin-top: 10em;*/
+	display: inline-block;
+	min-height: 3em;
+	width: 100%;
+	text-align: center;
+	padding: 1em;
+	padding-bottom: 0em;
+}
+#footer-link{
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	padding: 5px;
+}
+
+
+
+
+
+@media only screen and (max-width: 700px) {
+
+}
