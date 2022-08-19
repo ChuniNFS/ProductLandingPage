@@ -3,7 +3,7 @@ body{
 }
 #header{
 	position: fixed;
-	/*display: flex;*/
+	display: flex;
 	background-color: white;
 	width: 100%;
 
