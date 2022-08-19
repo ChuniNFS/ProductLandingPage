@@ -1,3 +1,6 @@
+body{
+	background: #eee;
+}
 #header{
 	position: fixed;
 	/*display: flex;*/
@@ -60,7 +63,7 @@ h5{
 #how_it_works{
 	text-align: center;
 	margin-top: 5em;
-	background: gray;
+	/*background: gray;*/
 	margin-bottom: 5em;
 	min-height: 25em;
 }
